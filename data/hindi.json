@@ -1,0 +1,219 @@
+{
+  "songs": [
+    {
+      "songName": "01 - 1",
+      "filePath": "songs/hindi/01 - 1.mp3",
+      "coverPath": "img/hindi/1. 1Balir Shahor.jpg"
+    },
+    {
+      "songName": "02 - 2",
+      "filePath": "songs/hindi/02 - 2.mp3",
+      "coverPath": "img/hindi/2. 2Bharat Ki Beti.jpg"
+    },
+    {
+      "songName": "03 - 3",
+      "filePath": "songs/hindi/03 - 3.mp3",
+      "coverPath": "img/hindi/3. 3Bhoy Dekhas Na.jpg"
+    },
+    {
+      "songName": "04 - 4",
+      "filePath": "songs/hindi/04 - 4.mp3",
+      "coverPath": "img/hindi/4. 4Boba Rajkumar.jpg"
+    },
+    {
+      "songName": "05 - 5",
+      "filePath": "songs/hindi/05 - 5.mp3",
+      "coverPath": "img/hindi/5. 5Bolna.jpg"
+    },
+    {
+      "songName": "06 - 6",
+      "filePath": "songs/hindi/06 - 6.mp3",
+      "coverPath": "img/hindi/6. 6Chhod Diya (Trending Version).jpg"
+    },
+    {
+      "songName": "07 - 7",
+      "filePath": "songs/hindi/07 - 7.mp3",
+      "coverPath": "img/hindi/7. 7Desh Mere Lofi Mix (Remix By Vdj Fly).jpg"
+    },
+    {
+      "songName": "08 - 8",
+      "filePath": "songs/hindi/08 - 8.mp3",
+      "coverPath": "img/hindi/8. 8Fateh Kar Fateh.jpg"
+    },
+    {
+      "songName": "09 - 9",
+      "filePath": "songs/hindi/09 - 9.mp3",
+      "coverPath": "img/hindi/9. 9Fitratein.jpg"
+    },
+    {
+      "songName": "10 - 10",
+      "filePath": "songs/hindi/10 - 10.mp3",
+      "coverPath": "img/hindi/10. 10Hamari Adhuri Kahani (Instrumental Lofi).jpg"
+    },
+    {
+      "songName": "11 - 11",
+      "filePath": "songs/hindi/11 - 11.mp3",
+      "coverPath": "img/hindi/11. Aaj Se Teri.jpg"
+    },
+    {
+      "songName": "12 - 12",
+      "filePath": "songs/hindi/12 - 12.mp3",
+      "coverPath": "img/hindi/12. Aa Seetadevi Navvula - Lofi.jpg"
+    },
+    {
+      "songName": "13 - 13",
+      "filePath": "songs/hindi/13 - 13.mp3",
+      "coverPath": "img/hindi/13. Ae Watan 1.jpg"
+    },
+    {
+      "songName": "14 - 14",
+      "filePath": "songs/hindi/14 - 14.mp3",
+      "coverPath": "img/hindi/14. Ajeeb-O-Gareeb.jpg"
+    },
+    {
+      "songName": "15 - 15",
+      "filePath": "songs/hindi/15 - 15.mp3",
+      "coverPath": "img/hindi/15. Aur Mohabbat Kitni Karoon.jpg"
+    },
+    {
+      "songName": "16 - 16",
+      "filePath": "songs/hindi/16 - 16.mp3",
+      "coverPath": "img/hindi/16. Barkha.jpg"
+    },
+    {
+      "songName": "17 - 17",
+      "filePath": "songs/hindi/17 - 17.mp3",
+      "coverPath": "img/hindi/17. Binte Dil Remix (Remix By Dj Tejas,Dj Star).jpg"
+    },
+    {
+      "songName": "18 - 18",
+      "filePath": "songs/hindi/18 - 18.mp3",
+      "coverPath": "img/hindi/18. Dhul Gaye.jpg"
+    },
+    {
+      "songName": "19 - 19",
+      "filePath": "songs/hindi/19 - 19.mp3",
+      "coverPath": "img/hindi/19. Dhun (Movie： Saiyaara).jpg"
+    },
+    {
+      "songName": "20 - 20",
+      "filePath": "songs/hindi/20 - 20.mp3",
+      "coverPath": "img/hindi/20. Dhun - Teaser (Movie： Saiyaara).jpg"
+    },
+    {
+      "songName": "21 - 21",
+      "filePath": "songs/hindi/21 - 21.mp3",
+      "coverPath": "img/hindi/21. Duniya Alag (From ＂Dhadak 2＂).jpg"
+    },
+    {
+      "songName": "22 - 22",
+      "filePath": "songs/hindi/22 - 22.mp3",
+      "coverPath": "img/hindi/22. Gaane Gaane (From ＂Dhumketu＂).jpg"
+    },
+    {
+      "songName": "23 - 23",
+      "filePath": "songs/hindi/23 - 23.mp3",
+      "coverPath": "img/hindi/23. Hazaar Baar.jpg"
+    },
+    {
+      "songName": "24 - 24",
+      "filePath": "songs/hindi/24 - 24.mp3",
+      "coverPath": "img/hindi/24. Hazaar Baar - Lofi Mix by Deepanshu Ruhela.jpg"
+    },
+    {
+      "songName": "25 - 25",
+      "filePath": "songs/hindi/25 - 25.mp3",
+      "coverPath": "img/hindi/25. Humdard Lofi Flip (Remix By Iampratheek).jpg"
+    },
+    {
+      "songName": "26 - 26",
+      "filePath": "songs/hindi/26 - 26.mp3",
+      "coverPath": "img/hindi/26. Hungama Ho Gaya - Remix.jpg"
+    },
+    {
+      "songName": "27 - 27",
+      "filePath": "songs/hindi/27 - 27.mp3",
+      "coverPath": "img/hindi/27. Ik Vaada (From ＂Akaal＂).jpg"
+    },
+    {
+      "songName": "28 - 28",
+      "filePath": "songs/hindi/28 - 28.mp3",
+      "coverPath": "img/hindi/28. Jaan Nisaar (Arijit).jpg"
+    },
+    {
+      "songName": "29 - 29",
+      "filePath": "songs/hindi/29 - 29.mp3",
+      "coverPath": "img/hindi/29. Jaan Nisaar Lofi Mix By L3AD.jpg"
+    },
+    {
+      "songName": "30 - 30",
+      "filePath": "songs/hindi/30 - 30.mp3",
+      "coverPath": "img/hindi/30. Jiye Lagda Na.jpg"
+    },
+    {
+      "songName": "31 - 31",
+      "filePath": "songs/hindi/31 - 31.mp3",
+      "coverPath": "img/hindi/31. Jiye Lagda Na (Preview).jpg"
+    },
+    {
+      "songName": "32 - 32",
+      "filePath": "songs/hindi/32 - 32.mp3",
+      "coverPath": "img/hindi/32. Kasturi (Trending Version).jpg"
+    },
+    {
+      "songName": "33 - 33",
+      "filePath": "songs/hindi/33 - 33.mp3",
+      "coverPath": "img/hindi/33. Kete Geche Din.jpg"
+    },
+    {
+      "songName": "34 - 34",
+      "filePath": "songs/hindi/34 - 34.mp3",
+      "coverPath": "img/hindi/34. Koi Nahi Mera.jpg"
+    },
+    {
+      "songName": "35 - 35",
+      "filePath": "songs/hindi/35 - 35.mp3",
+      "coverPath": "img/hindi/35. Krish Kapoor (Movie： Saiyaara).jpg"
+    },
+    {
+      "songName": "36 - 36",
+      "filePath": "songs/hindi/36 - 36.mp3",
+      "coverPath": "img/hindi/36. Maiya Teri Jai Jaikaar Remix (Remix By Vdj Fly,Dj Aadesh Sitamarhi).jpg"
+    },
+    {
+      "songName": "37 - 37",
+      "filePath": "songs/hindi/37 - 37.mp3",
+      "coverPath": "img/hindi/37. Mann Jogiya.jpg"
+    },
+    {
+      "songName": "38 - 38",
+      "filePath": "songs/hindi/38 - 38.mp3",
+      "coverPath": "img/hindi/38. Mausam.jpg"
+    },
+    {
+      "songName": "39 - 39",
+      "filePath": "songs/hindi/39 - 39.mp3",
+      "coverPath": "img/hindi/39. Mera Hua (Arijit Singh) (From ＂Ek Deewane Ki Deewaniyat＂) (Original Motion Picture Soundtrack).jpg"
+    },
+    {
+      "songName": "40 - 40",
+      "filePath": "songs/hindi/40 - 40.mp3",
+      "coverPath": "img/hindi/40. Missing You Monsoon Mashup 2025 (Remix By Dj Shadow Dubai).jpg"
+    },
+    {
+      "songName": "41 - 41",
+      "filePath": "songs/hindi/41 - 41.mp3",
+      "coverPath": "img/hindi/41. Monsoon Love Mashup (Remix By Kedrock).jpg"
+    },
+    {
+      "songName": "42 - 42",
+      "filePath": "songs/hindi/42 - 42.mp3",
+      "coverPath": "img/hindi/42. Muskurahat - Lofi.jpg"
+    },
+    {
+      "songName": "00 - 0",
+      "filePath": "songs/hindi/00 - 0.mp3",
+      "coverPath": "img/logo.png"
+    }
+  ]
+}
